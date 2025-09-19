@@ -1,0 +1,6 @@
+"Chicago"
+City
+"Los Angeles"
+"Miami"
+"New York"
+"Seattle"

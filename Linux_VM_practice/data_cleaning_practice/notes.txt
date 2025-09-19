@@ -1,0 +1,4 @@
+Data Cleaning Practice Notes
+- Created sample user data
+- Practiced basic shell commands
+- Next: Learn Vim editing
